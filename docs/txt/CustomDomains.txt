@@ -2,13 +2,13 @@ Custom Domains
 
 ------------------------------------------------------------------------
 
-How do I link my Glitch project /w a domain??
+How do I link my Glitch project with a domain??
 
 -   Go to your project in the editor,
 -   Click the 'Tools' menu,
 -   Click 'Custom Domains', and follow the instructions provided.
 
-How do I unlink my Glitch project /w a domain??
+How do I unlink my Glitch project with a domain??
 
 Email [support@glitch.com][] for domain removals
 
